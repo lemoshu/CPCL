@@ -1,5 +1,5 @@
 # CPCL
-This repository will hold the PyTorch implementation of the JBHI'22 paper [All-around real label supervision: Cyclic prototype consistency learning for semi-supervised medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9741294). Note that this is an extended implementation for the LA benchmark.
+This repository will hold the PyTorch implementation of the JBHI'22 paper [All-around real label supervision: Cyclic prototype consistency learning for semi-supervised medical image segmentation](https://ieeexplore.ieee.org/abstract/document/9741294). This is an extended implementation for the LA benchmark.
 
 ## Introduction
 ### Abstract

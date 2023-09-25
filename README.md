@@ -18,7 +18,7 @@ Check requirements.txt.
 
 1. Clone the repo:
 ```
-cd ./CPCL-SSL
+cd ./CPCL
 ```
 
 2. Data Preparation
